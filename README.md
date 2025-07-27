@@ -1,4 +1,4 @@
-# ToO_utils
+# too_utilities
 
 Utilities to support the target of opportunity program, in particular the humans in the loop.
 
